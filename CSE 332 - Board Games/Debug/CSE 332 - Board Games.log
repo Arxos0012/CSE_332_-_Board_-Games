@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSE 332 - Board Games.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  Gomoku.cpp
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\gomoku.cpp(116): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\gomoku.cpp(380): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\gomoku.cpp(423): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\gomoku.cpp(441): warning C4101: 'e': unreferenced local variable
+  Main.cpp
+  Sudoku.cpp
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(87): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(456): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\sudoku.cpp(491): warning C4101: 'e': unreferenced local variable
+  TicTacToe.cpp
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\tictactoe.cpp(112): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\tictactoe.cpp(342): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\tictactoe.cpp(386): warning C4101: 'e': unreferenced local variable
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\tictactoe.cpp(404): warning C4101: 'e': unreferenced local variable
+  Utilities.cpp
+c:\users\arxosultimate\documents\visual studio 2017\projects\cse 332 - board games\cse 332 - board games\utilities.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CSE 332 - Board Games.vcxproj -> C:\Users\ArxosUltimate\Documents\Visual Studio 2017\Projects\CSE 332 - Board Games\Debug\board_games.exe
